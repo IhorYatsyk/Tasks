@@ -26,7 +26,16 @@ namespace Task1._1.Rectangle
         }
         static void Main(string[] args)
         {
-            Rectangle rectangle = new Rectangle(0, 0, 1, -1);
+            int upLeftX, upLeftY, downRightX, downRightY;
+            Console.Write("Enter the x-coords of up left angle x = ");
+            upLeftX = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter the y-coords of up left angle y = ");
+            upLeftY = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter the x-coords of down right angle x = ");
+            downRightX = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter the y-coords of down right angle y = ");
+            downRightY = Convert.ToInt32(Console.ReadLine());
+            Rectangle rectangle = new Rectangle(upLeftX, upLeftY, downRightX, downRightY);
             Console.WriteLine("Perimetr of rectangle is {0}", Perimetr(rectangle));
             Console.WriteLine("Square of rectangle is {0}", Square(rectangle));
             Console.ReadLine();
