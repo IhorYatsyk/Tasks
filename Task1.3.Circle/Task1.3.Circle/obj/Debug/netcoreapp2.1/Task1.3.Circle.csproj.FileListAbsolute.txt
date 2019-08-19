@@ -9,3 +9,14 @@ C:\Users\LapStore\source\repos\Task1.3.Circle\Task1.3.Circle\obj\Debug\netcoreap
 C:\Users\LapStore\source\repos\Task1.3.Circle\Task1.3.Circle\bin\Debug\netcoreapp2.1\Task1.3.Circle.pdb
 C:\Users\LapStore\source\repos\Task1.3.Circle\Task1.3.Circle\obj\Debug\netcoreapp2.1\Task1.3.Circle.dll
 C:\Users\LapStore\source\repos\Task1.3.Circle\Task1.3.Circle\obj\Debug\netcoreapp2.1\Task1.3.Circle.pdb
+c:\EPAM\C#\Tasks\Task1.3.Circle\Task1.3.Circle\bin\Debug\netcoreapp2.1\Task1.3.Circle.deps.json
+c:\EPAM\C#\Tasks\Task1.3.Circle\Task1.3.Circle\bin\Debug\netcoreapp2.1\Task1.3.Circle.runtimeconfig.json
+c:\EPAM\C#\Tasks\Task1.3.Circle\Task1.3.Circle\bin\Debug\netcoreapp2.1\Task1.3.Circle.runtimeconfig.dev.json
+c:\EPAM\C#\Tasks\Task1.3.Circle\Task1.3.Circle\bin\Debug\netcoreapp2.1\Task1.3.Circle.dll
+c:\EPAM\C#\Tasks\Task1.3.Circle\Task1.3.Circle\bin\Debug\netcoreapp2.1\Task1.3.Circle.pdb
+c:\EPAM\C#\Tasks\Task1.3.Circle\Task1.3.Circle\obj\Debug\netcoreapp2.1\Task1.3.Circle.csprojAssemblyReference.cache
+c:\EPAM\C#\Tasks\Task1.3.Circle\Task1.3.Circle\obj\Debug\netcoreapp2.1\Task1.3.Circle.csproj.CoreCompileInputs.cache
+c:\EPAM\C#\Tasks\Task1.3.Circle\Task1.3.Circle\obj\Debug\netcoreapp2.1\Task1.3.Circle.AssemblyInfoInputs.cache
+c:\EPAM\C#\Tasks\Task1.3.Circle\Task1.3.Circle\obj\Debug\netcoreapp2.1\Task1.3.Circle.AssemblyInfo.cs
+c:\EPAM\C#\Tasks\Task1.3.Circle\Task1.3.Circle\obj\Debug\netcoreapp2.1\Task1.3.Circle.dll
+c:\EPAM\C#\Tasks\Task1.3.Circle\Task1.3.Circle\obj\Debug\netcoreapp2.1\Task1.3.Circle.pdb

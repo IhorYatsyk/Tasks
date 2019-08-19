@@ -15,10 +15,10 @@ namespace Task1._3.Circle
         }
         static void Main(string[] args)
         {
-            double lengthOfCircle = LengthOfCircle(1);
-            double squareOfCircle = SquareOfCircle(1);
-            Console.WriteLine("Length of circle = {0}", lengthOfCircle);
-            Console.WriteLine("Square of circle = {0}", squareOfCircle);
+            Console.Write("Enter the radius of the circle radius = ");
+            double radius = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Length of circle = {0}", LengthOfCircle(radius));
+            Console.WriteLine("Square of circle = {0}", SquareOfCircle(radius));
             Console.ReadLine();
         }
     }

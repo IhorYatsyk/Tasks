@@ -3714,11 +3714,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LapStore\\source\\repos\\Task1.3.Circle\\Task1.3.Circle\\Task1.3.Circle.csproj",
+      "projectUniqueName": "c:\\EPAM\\C#\\Tasks\\Task1.3.Circle\\Task1.3.Circle\\Task1.3.Circle.csproj",
       "projectName": "Task1.3.Circle",
-      "projectPath": "C:\\Users\\LapStore\\source\\repos\\Task1.3.Circle\\Task1.3.Circle\\Task1.3.Circle.csproj",
+      "projectPath": "c:\\EPAM\\C#\\Tasks\\Task1.3.Circle\\Task1.3.Circle\\Task1.3.Circle.csproj",
       "packagesPath": "C:\\Users\\LapStore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LapStore\\source\\repos\\Task1.3.Circle\\Task1.3.Circle\\obj\\",
+      "outputPath": "c:\\EPAM\\C#\\Tasks\\Task1.3.Circle\\Task1.3.Circle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
