@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LapStore\\source\\repos\\Task1.2.Rectangle\\Task1.2.Rectangle\\Task1.2.Rectangle.csproj": {}
+    "C:\\EPAM\\C#\\Tasks\\Task1.2.Rectangle\\Task1.2.Rectangle\\Task1.2.Rectangle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LapStore\\source\\repos\\Task1.2.Rectangle\\Task1.2.Rectangle\\Task1.2.Rectangle.csproj": {
+    "C:\\EPAM\\C#\\Tasks\\Task1.2.Rectangle\\Task1.2.Rectangle\\Task1.2.Rectangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LapStore\\source\\repos\\Task1.2.Rectangle\\Task1.2.Rectangle\\Task1.2.Rectangle.csproj",
+        "projectUniqueName": "C:\\EPAM\\C#\\Tasks\\Task1.2.Rectangle\\Task1.2.Rectangle\\Task1.2.Rectangle.csproj",
         "projectName": "Task1.2.Rectangle",
-        "projectPath": "C:\\Users\\LapStore\\source\\repos\\Task1.2.Rectangle\\Task1.2.Rectangle\\Task1.2.Rectangle.csproj",
+        "projectPath": "C:\\EPAM\\C#\\Tasks\\Task1.2.Rectangle\\Task1.2.Rectangle\\Task1.2.Rectangle.csproj",
         "packagesPath": "C:\\Users\\LapStore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LapStore\\source\\repos\\Task1.2.Rectangle\\Task1.2.Rectangle\\obj\\",
+        "outputPath": "C:\\EPAM\\C#\\Tasks\\Task1.2.Rectangle\\Task1.2.Rectangle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

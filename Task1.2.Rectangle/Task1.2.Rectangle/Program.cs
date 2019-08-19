@@ -14,10 +14,14 @@ namespace Task1._2.Rectangle
         static void Main(string[] args)
         {
             Rectangle rectangle = new Rectangle();
-            rectangle.upLeftX = 0;
-            rectangle.upLeftY = 0;
-            rectangle.downRightX = 1;
-            rectangle.downRightY = -1;
+            Console.Write("Enter the x-coords of up left angle x = ");
+            rectangle.upLeftX = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter the y-coords of up left angle y = ");
+            rectangle.upLeftY = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter the x-coords of down right angle x = ");
+            rectangle.downRightX = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter the y-coords of down right angle y = ");
+            rectangle.downRightY = Convert.ToInt32(Console.ReadLine());
             rectangle.Perimetr = 2 * (rectangle.downRightX - rectangle.upLeftX + rectangle.upLeftY - rectangle.downRightY);
             rectangle.Square = (rectangle.downRightX - rectangle.upLeftX) * (rectangle.upLeftY - rectangle.downRightY);
             Console.WriteLine("Perimetr of rectangle is {0}", rectangle.Perimetr);

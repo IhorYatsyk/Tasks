@@ -9,3 +9,14 @@ C:\Users\LapStore\source\repos\Task1.2.Rectangle\Task1.2.Rectangle\obj\Debug\net
 C:\Users\LapStore\source\repos\Task1.2.Rectangle\Task1.2.Rectangle\obj\Debug\netcoreapp2.1\Task1.2.Rectangle.dll
 C:\Users\LapStore\source\repos\Task1.2.Rectangle\Task1.2.Rectangle\obj\Debug\netcoreapp2.1\Task1.2.Rectangle.pdb
 C:\Users\LapStore\source\repos\Task1.2.Rectangle\Task1.2.Rectangle\obj\Debug\netcoreapp2.1\Task1.2.Rectangle.csprojAssemblyReference.cache
+C:\EPAM\C#\Tasks\Task1.2.Rectangle\Task1.2.Rectangle\obj\Debug\netcoreapp2.1\Task1.2.Rectangle.csprojAssemblyReference.cache
+C:\EPAM\C#\Tasks\Task1.2.Rectangle\Task1.2.Rectangle\obj\Debug\netcoreapp2.1\Task1.2.Rectangle.csproj.CoreCompileInputs.cache
+C:\EPAM\C#\Tasks\Task1.2.Rectangle\Task1.2.Rectangle\obj\Debug\netcoreapp2.1\Task1.2.Rectangle.AssemblyInfoInputs.cache
+C:\EPAM\C#\Tasks\Task1.2.Rectangle\Task1.2.Rectangle\obj\Debug\netcoreapp2.1\Task1.2.Rectangle.AssemblyInfo.cs
+C:\EPAM\C#\Tasks\Task1.2.Rectangle\Task1.2.Rectangle\obj\Debug\netcoreapp2.1\Task1.2.Rectangle.dll
+C:\EPAM\C#\Tasks\Task1.2.Rectangle\Task1.2.Rectangle\obj\Debug\netcoreapp2.1\Task1.2.Rectangle.pdb
+C:\EPAM\C#\Tasks\Task1.2.Rectangle\Task1.2.Rectangle\bin\Debug\netcoreapp2.1\Task1.2.Rectangle.deps.json
+C:\EPAM\C#\Tasks\Task1.2.Rectangle\Task1.2.Rectangle\bin\Debug\netcoreapp2.1\Task1.2.Rectangle.runtimeconfig.json
+C:\EPAM\C#\Tasks\Task1.2.Rectangle\Task1.2.Rectangle\bin\Debug\netcoreapp2.1\Task1.2.Rectangle.runtimeconfig.dev.json
+C:\EPAM\C#\Tasks\Task1.2.Rectangle\Task1.2.Rectangle\bin\Debug\netcoreapp2.1\Task1.2.Rectangle.dll
+C:\EPAM\C#\Tasks\Task1.2.Rectangle\Task1.2.Rectangle\bin\Debug\netcoreapp2.1\Task1.2.Rectangle.pdb
