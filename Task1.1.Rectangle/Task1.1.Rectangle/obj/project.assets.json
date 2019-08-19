@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LapStore\\source\\repos\\Task1.1.Rectangle\\Task1.1.Rectangle\\Task1.1.Rectangle.csproj",
+      "projectUniqueName": "c:\\EPAM\\C#\\Tasks\\Task1.1.Rectangle\\Task1.1.Rectangle\\Task1.1.Rectangle.csproj",
       "projectName": "Task1.1.Rectangle",
-      "projectPath": "C:\\Users\\LapStore\\source\\repos\\Task1.1.Rectangle\\Task1.1.Rectangle\\Task1.1.Rectangle.csproj",
+      "projectPath": "c:\\EPAM\\C#\\Tasks\\Task1.1.Rectangle\\Task1.1.Rectangle\\Task1.1.Rectangle.csproj",
       "packagesPath": "C:\\Users\\LapStore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LapStore\\source\\repos\\Task1.1.Rectangle\\Task1.1.Rectangle\\obj\\",
+      "outputPath": "c:\\EPAM\\C#\\Tasks\\Task1.1.Rectangle\\Task1.1.Rectangle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
