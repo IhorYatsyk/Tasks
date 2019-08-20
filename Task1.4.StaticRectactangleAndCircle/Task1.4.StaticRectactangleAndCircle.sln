@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.4.StaticRectactangleAndCircle", "Task1.4.StaticRectactangleAndCircle\Task1.4.StaticRectactangleAndCircle.csproj", "{C91CFB52-6DFB-47A8-8603-73C2DA84A96E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C91CFB52-6DFB-47A8-8603-73C2DA84A96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91CFB52-6DFB-47A8-8603-73C2DA84A96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91CFB52-6DFB-47A8-8603-73C2DA84A96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91CFB52-6DFB-47A8-8603-73C2DA84A96E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62D9B616-B14F-4480-9683-6943E8F30D0E}
+	EndGlobalSection
+EndGlobal

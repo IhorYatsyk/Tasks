@@ -1,0 +1,11 @@
+C:\Users\LapStore\source\repos\Task1.4.StaticRectactangleAndCircle\Task1.4.StaticRectactangleAndCircle\obj\Debug\netcoreapp2.1\Task1.4.StaticRectactangleAndCircle.csprojAssemblyReference.cache
+C:\Users\LapStore\source\repos\Task1.4.StaticRectactangleAndCircle\Task1.4.StaticRectactangleAndCircle\obj\Debug\netcoreapp2.1\Task1.4.StaticRectactangleAndCircle.csproj.CoreCompileInputs.cache
+C:\Users\LapStore\source\repos\Task1.4.StaticRectactangleAndCircle\Task1.4.StaticRectactangleAndCircle\obj\Debug\netcoreapp2.1\Task1.4.StaticRectactangleAndCircle.AssemblyInfoInputs.cache
+C:\Users\LapStore\source\repos\Task1.4.StaticRectactangleAndCircle\Task1.4.StaticRectactangleAndCircle\obj\Debug\netcoreapp2.1\Task1.4.StaticRectactangleAndCircle.AssemblyInfo.cs
+C:\Users\LapStore\source\repos\Task1.4.StaticRectactangleAndCircle\Task1.4.StaticRectactangleAndCircle\bin\Debug\netcoreapp2.1\Task1.4.StaticRectactangleAndCircle.deps.json
+C:\Users\LapStore\source\repos\Task1.4.StaticRectactangleAndCircle\Task1.4.StaticRectactangleAndCircle\bin\Debug\netcoreapp2.1\Task1.4.StaticRectactangleAndCircle.runtimeconfig.json
+C:\Users\LapStore\source\repos\Task1.4.StaticRectactangleAndCircle\Task1.4.StaticRectactangleAndCircle\bin\Debug\netcoreapp2.1\Task1.4.StaticRectactangleAndCircle.runtimeconfig.dev.json
+C:\Users\LapStore\source\repos\Task1.4.StaticRectactangleAndCircle\Task1.4.StaticRectactangleAndCircle\bin\Debug\netcoreapp2.1\Task1.4.StaticRectactangleAndCircle.dll
+C:\Users\LapStore\source\repos\Task1.4.StaticRectactangleAndCircle\Task1.4.StaticRectactangleAndCircle\bin\Debug\netcoreapp2.1\Task1.4.StaticRectactangleAndCircle.pdb
+C:\Users\LapStore\source\repos\Task1.4.StaticRectactangleAndCircle\Task1.4.StaticRectactangleAndCircle\obj\Debug\netcoreapp2.1\Task1.4.StaticRectactangleAndCircle.dll
+C:\Users\LapStore\source\repos\Task1.4.StaticRectactangleAndCircle\Task1.4.StaticRectactangleAndCircle\obj\Debug\netcoreapp2.1\Task1.4.StaticRectactangleAndCircle.pdb
