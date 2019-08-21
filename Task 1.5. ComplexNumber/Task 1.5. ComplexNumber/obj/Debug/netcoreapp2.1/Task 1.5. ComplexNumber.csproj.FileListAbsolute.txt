@@ -1,0 +1,11 @@
+C:\Users\LapStore\source\repos\Task 1.5. ComplexNumber\Task 1.5. ComplexNumber\bin\Debug\netcoreapp2.1\Task 1.5. ComplexNumber.deps.json
+C:\Users\LapStore\source\repos\Task 1.5. ComplexNumber\Task 1.5. ComplexNumber\bin\Debug\netcoreapp2.1\Task 1.5. ComplexNumber.runtimeconfig.json
+C:\Users\LapStore\source\repos\Task 1.5. ComplexNumber\Task 1.5. ComplexNumber\bin\Debug\netcoreapp2.1\Task 1.5. ComplexNumber.runtimeconfig.dev.json
+C:\Users\LapStore\source\repos\Task 1.5. ComplexNumber\Task 1.5. ComplexNumber\bin\Debug\netcoreapp2.1\Task 1.5. ComplexNumber.dll
+C:\Users\LapStore\source\repos\Task 1.5. ComplexNumber\Task 1.5. ComplexNumber\bin\Debug\netcoreapp2.1\Task 1.5. ComplexNumber.pdb
+C:\Users\LapStore\source\repos\Task 1.5. ComplexNumber\Task 1.5. ComplexNumber\obj\Debug\netcoreapp2.1\Task 1.5. ComplexNumber.csprojAssemblyReference.cache
+C:\Users\LapStore\source\repos\Task 1.5. ComplexNumber\Task 1.5. ComplexNumber\obj\Debug\netcoreapp2.1\Task 1.5. ComplexNumber.csproj.CoreCompileInputs.cache
+C:\Users\LapStore\source\repos\Task 1.5. ComplexNumber\Task 1.5. ComplexNumber\obj\Debug\netcoreapp2.1\Task 1.5. ComplexNumber.AssemblyInfoInputs.cache
+C:\Users\LapStore\source\repos\Task 1.5. ComplexNumber\Task 1.5. ComplexNumber\obj\Debug\netcoreapp2.1\Task 1.5. ComplexNumber.AssemblyInfo.cs
+C:\Users\LapStore\source\repos\Task 1.5. ComplexNumber\Task 1.5. ComplexNumber\obj\Debug\netcoreapp2.1\Task 1.5. ComplexNumber.dll
+C:\Users\LapStore\source\repos\Task 1.5. ComplexNumber\Task 1.5. ComplexNumber\obj\Debug\netcoreapp2.1\Task 1.5. ComplexNumber.pdb
