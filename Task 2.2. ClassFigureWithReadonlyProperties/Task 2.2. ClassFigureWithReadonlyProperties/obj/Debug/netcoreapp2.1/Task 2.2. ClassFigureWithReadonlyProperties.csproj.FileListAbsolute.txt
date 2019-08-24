@@ -1,0 +1,11 @@
+C:\Users\LapStore\source\repos\Task 2.2. ClassFigureWithReadonlyProperties\Task 2.2. ClassFigureWithReadonlyProperties\bin\Debug\netcoreapp2.1\Task 2.2. ClassFigureWithReadonlyProperties.deps.json
+C:\Users\LapStore\source\repos\Task 2.2. ClassFigureWithReadonlyProperties\Task 2.2. ClassFigureWithReadonlyProperties\bin\Debug\netcoreapp2.1\Task 2.2. ClassFigureWithReadonlyProperties.runtimeconfig.json
+C:\Users\LapStore\source\repos\Task 2.2. ClassFigureWithReadonlyProperties\Task 2.2. ClassFigureWithReadonlyProperties\bin\Debug\netcoreapp2.1\Task 2.2. ClassFigureWithReadonlyProperties.runtimeconfig.dev.json
+C:\Users\LapStore\source\repos\Task 2.2. ClassFigureWithReadonlyProperties\Task 2.2. ClassFigureWithReadonlyProperties\bin\Debug\netcoreapp2.1\Task 2.2. ClassFigureWithReadonlyProperties.dll
+C:\Users\LapStore\source\repos\Task 2.2. ClassFigureWithReadonlyProperties\Task 2.2. ClassFigureWithReadonlyProperties\bin\Debug\netcoreapp2.1\Task 2.2. ClassFigureWithReadonlyProperties.pdb
+C:\Users\LapStore\source\repos\Task 2.2. ClassFigureWithReadonlyProperties\Task 2.2. ClassFigureWithReadonlyProperties\obj\Debug\netcoreapp2.1\Task 2.2. ClassFigureWithReadonlyProperties.csprojAssemblyReference.cache
+C:\Users\LapStore\source\repos\Task 2.2. ClassFigureWithReadonlyProperties\Task 2.2. ClassFigureWithReadonlyProperties\obj\Debug\netcoreapp2.1\Task 2.2. ClassFigureWithReadonlyProperties.csproj.CoreCompileInputs.cache
+C:\Users\LapStore\source\repos\Task 2.2. ClassFigureWithReadonlyProperties\Task 2.2. ClassFigureWithReadonlyProperties\obj\Debug\netcoreapp2.1\Task 2.2. ClassFigureWithReadonlyProperties.AssemblyInfoInputs.cache
+C:\Users\LapStore\source\repos\Task 2.2. ClassFigureWithReadonlyProperties\Task 2.2. ClassFigureWithReadonlyProperties\obj\Debug\netcoreapp2.1\Task 2.2. ClassFigureWithReadonlyProperties.AssemblyInfo.cs
+C:\Users\LapStore\source\repos\Task 2.2. ClassFigureWithReadonlyProperties\Task 2.2. ClassFigureWithReadonlyProperties\obj\Debug\netcoreapp2.1\Task 2.2. ClassFigureWithReadonlyProperties.dll
+C:\Users\LapStore\source\repos\Task 2.2. ClassFigureWithReadonlyProperties\Task 2.2. ClassFigureWithReadonlyProperties\obj\Debug\netcoreapp2.1\Task 2.2. ClassFigureWithReadonlyProperties.pdb
