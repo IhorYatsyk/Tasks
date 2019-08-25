@@ -1,0 +1,11 @@
+C:\Users\LapStore\source\repos\Task 2.4. InterfaceIDrawable\Task 2.4. InterfaceIDrawable\bin\Debug\netcoreapp2.1\Task 2.4. InterfaceIDrawable.deps.json
+C:\Users\LapStore\source\repos\Task 2.4. InterfaceIDrawable\Task 2.4. InterfaceIDrawable\bin\Debug\netcoreapp2.1\Task 2.4. InterfaceIDrawable.runtimeconfig.json
+C:\Users\LapStore\source\repos\Task 2.4. InterfaceIDrawable\Task 2.4. InterfaceIDrawable\bin\Debug\netcoreapp2.1\Task 2.4. InterfaceIDrawable.runtimeconfig.dev.json
+C:\Users\LapStore\source\repos\Task 2.4. InterfaceIDrawable\Task 2.4. InterfaceIDrawable\bin\Debug\netcoreapp2.1\Task 2.4. InterfaceIDrawable.dll
+C:\Users\LapStore\source\repos\Task 2.4. InterfaceIDrawable\Task 2.4. InterfaceIDrawable\bin\Debug\netcoreapp2.1\Task 2.4. InterfaceIDrawable.pdb
+C:\Users\LapStore\source\repos\Task 2.4. InterfaceIDrawable\Task 2.4. InterfaceIDrawable\obj\Debug\netcoreapp2.1\Task 2.4. InterfaceIDrawable.csprojAssemblyReference.cache
+C:\Users\LapStore\source\repos\Task 2.4. InterfaceIDrawable\Task 2.4. InterfaceIDrawable\obj\Debug\netcoreapp2.1\Task 2.4. InterfaceIDrawable.csproj.CoreCompileInputs.cache
+C:\Users\LapStore\source\repos\Task 2.4. InterfaceIDrawable\Task 2.4. InterfaceIDrawable\obj\Debug\netcoreapp2.1\Task 2.4. InterfaceIDrawable.AssemblyInfoInputs.cache
+C:\Users\LapStore\source\repos\Task 2.4. InterfaceIDrawable\Task 2.4. InterfaceIDrawable\obj\Debug\netcoreapp2.1\Task 2.4. InterfaceIDrawable.AssemblyInfo.cs
+C:\Users\LapStore\source\repos\Task 2.4. InterfaceIDrawable\Task 2.4. InterfaceIDrawable\obj\Debug\netcoreapp2.1\Task 2.4. InterfaceIDrawable.dll
+C:\Users\LapStore\source\repos\Task 2.4. InterfaceIDrawable\Task 2.4. InterfaceIDrawable\obj\Debug\netcoreapp2.1\Task 2.4. InterfaceIDrawable.pdb
