@@ -1,0 +1,11 @@
+C:\Users\LapStore\source\repos\Task 3.1. Person\Task 3.1. Person\bin\Debug\netcoreapp2.1\Task 3.1. Person.deps.json
+C:\Users\LapStore\source\repos\Task 3.1. Person\Task 3.1. Person\bin\Debug\netcoreapp2.1\Task 3.1. Person.runtimeconfig.json
+C:\Users\LapStore\source\repos\Task 3.1. Person\Task 3.1. Person\bin\Debug\netcoreapp2.1\Task 3.1. Person.runtimeconfig.dev.json
+C:\Users\LapStore\source\repos\Task 3.1. Person\Task 3.1. Person\bin\Debug\netcoreapp2.1\Task 3.1. Person.dll
+C:\Users\LapStore\source\repos\Task 3.1. Person\Task 3.1. Person\bin\Debug\netcoreapp2.1\Task 3.1. Person.pdb
+C:\Users\LapStore\source\repos\Task 3.1. Person\Task 3.1. Person\obj\Debug\netcoreapp2.1\Task 3.1. Person.csprojAssemblyReference.cache
+C:\Users\LapStore\source\repos\Task 3.1. Person\Task 3.1. Person\obj\Debug\netcoreapp2.1\Task 3.1. Person.csproj.CoreCompileInputs.cache
+C:\Users\LapStore\source\repos\Task 3.1. Person\Task 3.1. Person\obj\Debug\netcoreapp2.1\Task 3.1. Person.AssemblyInfoInputs.cache
+C:\Users\LapStore\source\repos\Task 3.1. Person\Task 3.1. Person\obj\Debug\netcoreapp2.1\Task 3.1. Person.AssemblyInfo.cs
+C:\Users\LapStore\source\repos\Task 3.1. Person\Task 3.1. Person\obj\Debug\netcoreapp2.1\Task 3.1. Person.dll
+C:\Users\LapStore\source\repos\Task 3.1. Person\Task 3.1. Person\obj\Debug\netcoreapp2.1\Task 3.1. Person.pdb
