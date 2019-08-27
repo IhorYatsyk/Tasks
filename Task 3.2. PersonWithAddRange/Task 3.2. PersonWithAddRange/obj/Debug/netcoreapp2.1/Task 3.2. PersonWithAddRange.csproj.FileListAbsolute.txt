@@ -1,0 +1,11 @@
+C:\Users\LapStore\source\repos\Task 3.2. PersonWithAddRange\Task 3.2. PersonWithAddRange\bin\Debug\netcoreapp2.1\Task 3.2. PersonWithAddRange.deps.json
+C:\Users\LapStore\source\repos\Task 3.2. PersonWithAddRange\Task 3.2. PersonWithAddRange\bin\Debug\netcoreapp2.1\Task 3.2. PersonWithAddRange.runtimeconfig.json
+C:\Users\LapStore\source\repos\Task 3.2. PersonWithAddRange\Task 3.2. PersonWithAddRange\bin\Debug\netcoreapp2.1\Task 3.2. PersonWithAddRange.runtimeconfig.dev.json
+C:\Users\LapStore\source\repos\Task 3.2. PersonWithAddRange\Task 3.2. PersonWithAddRange\bin\Debug\netcoreapp2.1\Task 3.2. PersonWithAddRange.dll
+C:\Users\LapStore\source\repos\Task 3.2. PersonWithAddRange\Task 3.2. PersonWithAddRange\bin\Debug\netcoreapp2.1\Task 3.2. PersonWithAddRange.pdb
+C:\Users\LapStore\source\repos\Task 3.2. PersonWithAddRange\Task 3.2. PersonWithAddRange\obj\Debug\netcoreapp2.1\Task 3.2. PersonWithAddRange.csprojAssemblyReference.cache
+C:\Users\LapStore\source\repos\Task 3.2. PersonWithAddRange\Task 3.2. PersonWithAddRange\obj\Debug\netcoreapp2.1\Task 3.2. PersonWithAddRange.csproj.CoreCompileInputs.cache
+C:\Users\LapStore\source\repos\Task 3.2. PersonWithAddRange\Task 3.2. PersonWithAddRange\obj\Debug\netcoreapp2.1\Task 3.2. PersonWithAddRange.AssemblyInfoInputs.cache
+C:\Users\LapStore\source\repos\Task 3.2. PersonWithAddRange\Task 3.2. PersonWithAddRange\obj\Debug\netcoreapp2.1\Task 3.2. PersonWithAddRange.AssemblyInfo.cs
+C:\Users\LapStore\source\repos\Task 3.2. PersonWithAddRange\Task 3.2. PersonWithAddRange\obj\Debug\netcoreapp2.1\Task 3.2. PersonWithAddRange.dll
+C:\Users\LapStore\source\repos\Task 3.2. PersonWithAddRange\Task 3.2. PersonWithAddRange\obj\Debug\netcoreapp2.1\Task 3.2. PersonWithAddRange.pdb

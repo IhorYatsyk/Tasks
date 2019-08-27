@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 3.2. PersonWithAddRange", "Task 3.2. PersonWithAddRange\Task 3.2. PersonWithAddRange.csproj", "{299B158C-1BCC-4062-BCAE-FF462FE56B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{299B158C-1BCC-4062-BCAE-FF462FE56B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299B158C-1BCC-4062-BCAE-FF462FE56B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299B158C-1BCC-4062-BCAE-FF462FE56B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299B158C-1BCC-4062-BCAE-FF462FE56B75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA5C2B6D-7613-4793-BD27-BA5C3A1156EE}
+	EndGlobalSection
+EndGlobal
